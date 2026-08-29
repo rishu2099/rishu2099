@@ -76,19 +76,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishu2099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rishu2099&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
+[![GitHub Streak](https://ghstats.onuralpsezer.com?user=rishu2099&theme=tokyonight&border_radius=4.4)](https://git.io/streak-stats)
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu2099&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
