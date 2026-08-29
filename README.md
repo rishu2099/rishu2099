@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/rishu2099/rishu2099/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ## 🧑‍💻 About Me
 
 - 🎓 BTech Computer Science student
