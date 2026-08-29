@@ -96,8 +96,8 @@
 
 <div align="center">
 
-<a href="https://github.com/rishu2099">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:rishabhshishodiya22@gmail.com">
+<img src="https://img.shields.io/badge/Email-rishabhshishodiya22%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -116,6 +116,3 @@
 
 ### ⚡ Code • Build • Learn • Repeat ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
-
-</div>
