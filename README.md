@@ -8,6 +8,10 @@
 
 ---
 
+## 🐍 Contribution Activity
+
+![Snake animation](https://raw.githubusercontent.com/rishu2099/rishu2099/output/github-contribution-grid-snake.gif)
+
 ## 🧑‍💻 About Me
 
 - 🎓 BTech Computer Science student
