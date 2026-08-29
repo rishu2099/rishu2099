@@ -97,7 +97,7 @@
 <div align="center">
 
 <a href="mailto:rishabhshishodiya22@gmail.com">
-<img src="https://img.shields.io/badge/Email-rishabhshishodiya22%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
